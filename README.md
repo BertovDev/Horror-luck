@@ -1,5 +1,5 @@
 ![Screenshot from 2022-11-08 18-32-06](https://user-images.githubusercontent.com/62818001/200680058-9666ca72-edfa-4890-a472-18da41f1494a.png)
-# Horror Luck
+# Horror Luck 🎃
 
 ## Don´t know what horror movie watch? leave it to luck :sunglasses:
 ### Select over 187 Languages , 43 countries and up to 160 plataforms depending the region!
