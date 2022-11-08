@@ -1,4 +1,4 @@
-
+![Screenshot from 2022-11-08 18-28-23](https://user-images.githubusercontent.com/62818001/200679316-1f0e0f6d-2b0a-465f-9942-2d8c7fff475d.png)
 # Horror Luck
 
 ## Don´t know what horror movie watch? leave it to luck :sunglasses:
@@ -15,5 +15,3 @@ You need **Node.js** and a Themoviedb account in order to run this application.
 ```
 REACT_APP_API_KEY= (Themoviedb API KEY)
 ```
-
-![Screenshot from 2022-11-08 18-28-23](https://user-images.githubusercontent.com/62818001/200679316-1f0e0f6d-2b0a-465f-9942-2d8c7fff475d.png)
